@@ -1,0 +1,30 @@
+.news-section {
+  margin-top: 20px;
+  padding: 10px;
+  background-color: #f5f5f5;
+  border-radius: 5px;
+}
+
+.news-section h2 {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.news-article {
+  margin-bottom: 15px;
+  padding: 10px;
+  border-bottom: 1px solid #ddd;
+}
+
+.news-article h3 {
+  margin: 0 0 10px;
+}
+
+.news-article p {
+  margin: 0 0 10px;
+}
+
+.news-article span {
+  font-size: 0.8em;
+  color: #888;
+}
